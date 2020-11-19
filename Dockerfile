@@ -3,6 +3,7 @@ WORKDIR src
 
 COPY *.sln .
 COPY SportsStore/*.csproj SportsStore/
+COPY SportsStore.Tests/*.csproj SportsStore.Tests/
 RUN dotnet restore
 
 
