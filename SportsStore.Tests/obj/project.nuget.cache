@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VP4i5C+3r/zYSsjYJDGYp23WwsAd400O4C8s/FiOTIrGlIjojcDRIfdl7WOX2FIK8afmEZgtY0vj+jMVh/k5WQ==",
+  "success": false,
+  "projectFilePath": "D:\\Study\\TKWeb\\TKW2\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project SportsStore is not compatible with netcoreapp2.0 (.NETCoreApp,Version=v2.0). Project SportsStore supports: netcoreapp2.1 (.NETCoreApp,Version=v2.1)",
+      "libraryId": "SportsStore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}
